@@ -1,10 +1,3 @@
-//
-//  rotaryUITests.swift
-//  rotaryUITests
-//
-//  Created by April Trainor on 9/4/23.
-//
-
 import XCTest
 
 final class rotaryUITests: XCTestCase {

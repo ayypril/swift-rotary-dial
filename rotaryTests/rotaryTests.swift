@@ -1,10 +1,3 @@
-//
-//  rotaryTests.swift
-//  rotaryTests
-//
-//  Created by April Trainor on 9/4/23.
-//
-
 import XCTest
 @testable import rotary
 
